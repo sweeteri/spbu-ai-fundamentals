@@ -1,8 +1,8 @@
 house_pricing:
-  train_dataset: /Users/tony/datasets/kaggle/house_prices/train.csv
-  test_dataset: /Users/tony/datasets/kaggle/house_prices/test.csv
+  train_dataset: D:\data\spbu_ai_fundamentals\house_prices\train.csv
+  test_dataset: D:\data\spbu_ai_fundamentals\house_prices\test.csv
 classification:
-  wdbc: /Users/tony/datasets/kaggle/wdbc/data.csv
-  mushrooms: /Users/tony/datasets/kaggle/mushrooms/mushrooms.csv
+  wdbc: D:\data\spbu_ai_fundamentals/classification/data.csv
+  mushrooms: D:\data\spbu_ai_fundamentals/classification/mushrooms.csv
 clustering:
-  flowcytometry: /Users/tony/datasets/flowcytometry
+  flowcytometry: D:\data\spbu_ai_fundamentals/flow_cytometry
